@@ -4,8 +4,8 @@
 
 - 🎓 Student of Haaga-Helia University IT-line, 4th year
 - 💡 Currently focusing on learning Java
-- 💪 Experienced in ReactTS, Redux, Tailwind, Spring Boot, PostgreSQL
-- 📚 Familiar with Node.js, MongoDB, AWS
+- 💪 Experienced in ReactTS, Redux, Tailwind, Spring Boot, and PostgreSQL
+- 📚 Familiar with Node.js, MongoDB, and AWS
 - 📫How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitry-sinyavskiy/) or check out my [portfolio](https://dmitry-sinyavskiy.netlify.app/)
 
 <!--
