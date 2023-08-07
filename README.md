@@ -1,6 +1,6 @@
 # Hi, I'm Dmitry, a Full Stack Developer
 
-### 🌟 July status: Improving my theoretical knowledge and playing with [leetcode](https://leetcode.com/uch2ha/) 🌟
+### 🌟 August status: Improving my theoretical knowledge and playing with [leetcode](https://leetcode.com/uch2ha/) 🌟
 
 - 🎓 Student of Haaga-Helia University IT-line, 4th year
 - 💡 Currently focusing on learning Java
