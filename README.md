@@ -4,7 +4,6 @@
 - 💡 Currently focusing on expanding my knowledge in Java
 - 💪 Experienced in ReactTS, Redux, Tailwind, Spring Boot, and PostgreSQL
 - 📚 Familiar with Express, MongoDB, and AWS
-- 📫How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitry-sinyavskiy/) or check out my [portfolio](https://dmitry-sinyavskiy.netlify.app/)
 
 
 <!--
