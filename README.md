@@ -1,10 +1,11 @@
-# Hi, I'm Dmitry, a Full Stack Developer
+# Hi, I'm Dmitry, a Software Developer
 
-- 🎓 Student of Haaga-Helia University IT-line, 4th year
-- 💡 Currently focusing on learning Java
+- 🎓 Graduated from Haaga-Helia University, IT-Line
+- 💡 Currently focusing on expanding my knowledge in Java
 - 💪 Experienced in ReactTS, Redux, Tailwind, Spring Boot, and PostgreSQL
 - 📚 Familiar with Express, MongoDB, and AWS
 - 📫How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitry-sinyavskiy/) or check out my [portfolio](https://dmitry-sinyavskiy.netlify.app/)
+
 
 <!--
 **uch2ha/uch2ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
