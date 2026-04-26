@@ -1,21 +1,13 @@
-# Hi, I'm Dmitry, a Software Developer
+```
+                      ░██         ░██████  ░██                   
+                      ░██        ░██   ░██ ░██                   
+░██    ░██  ░███████  ░████████        ░██ ░████████   ░██████   
+░██    ░██ ░██    ░██ ░██    ░██   ░█████  ░██    ░██       ░██  
+░██    ░██ ░██        ░██    ░██  ░██      ░██    ░██  ░███████  
+░██   ░███ ░██    ░██ ░██    ░██ ░██       ░██    ░██ ░██   ░██  
+ ░█████░██  ░███████  ░██    ░██ ░████████ ░██    ░██  ░█████░██
+```
 
-- 🎓 Graduated from Haaga-Helia University, IT-Line
-- 💡 Currently focusing on expanding my knowledge in Java
-- 💪 Experienced in ReactTS, Redux, Tailwind, Spring Boot, and PostgreSQL
-- 📚 Familiar with Express, MongoDB, and AWS
+**Software developer** with extensive experience building **Traffic Management Systems (TMS)** and **Centralized Traffic Control (CTC)** solutions for **Finnish Railways**.
 
-
-<!--
-**uch2ha/uch2ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java · Quarkus · PostgreSQL · Kubernetes · TypeScript · React
